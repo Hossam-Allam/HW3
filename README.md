@@ -8,7 +8,7 @@ You will create an interactive CLI tool that can look up Pokémon, compare them,
 Your submission must include:
 
 - `pokecli.sh`
-- `README.md` explaining usage and examples
+- `Name_Surname.md` explaining usage and examples
 
 ---
 
@@ -84,8 +84,7 @@ Create a submenu:
 1) View team
 2) Add Pokémon
 3) Remove Pokémon
-4) Team summary
-5) Back
+4) Back
 ```
 
 ### Requirements
@@ -107,21 +106,6 @@ Create a submenu:
 - Ask for the index to remove.
 - Delete that line from the file.
 
-#### Team Summary
-
-For each Pokémon in `team.txt`:
-
-1. Fetch stats with the API.
-2. Compute average values for at least:
-   - HP
-   - Attack
-   - Defense
-   - Speed
-
-Print a short summary report.
-
----
-
 ## Task 4 — Main Program Structure
 
 Your script must:
@@ -138,7 +122,7 @@ Your script must:
 Submit:
 
 - `pokecli.sh`
-- `README.md` containing:
+- `Name_Surname.md` containing:
   - description of the script
   - instructions for running
   - sample outputs
